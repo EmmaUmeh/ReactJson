@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 0,
+        "name" : "Emmanuel Umeh",
+        "Occupation" : "Senior Software Engineer",
+        "Salary" : "900,000",
+        "currency" : "USD"
+    },
+
+    {
+        "id":1,
+        "name": "Rose Dublin",
+        "Occupation" : "Lead Software Engineer",
+        "Salary" : "900,000",
+        "currency" : "USD"
+    },
+
+
+    {
+        "id":2,
+        "name": "Chinenye Amaka",
+        "Occupation" : "Product Designer",
+        "Salary" : "500,000",
+        "currency" : "USD"
+    },
+
+    {
+        "id":3,
+        "name": "Mac Donald",
+        "Occupation" : "Mobile App Developer",
+        "Salary" : "900,000",
+        "currency" : "USD"
+    }
+]
